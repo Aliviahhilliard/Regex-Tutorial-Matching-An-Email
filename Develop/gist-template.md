@@ -75,9 +75,13 @@ z{min,max} min/max occurrences
 
 ### Flags
 
+/ expression / flags, i.e /[A-Z]+/g basic format
+
 ### Character Escapes
+
+/ hello\?\*\\/ escape special characters with backslashes
 
 ## Author
 
+Aliviah Hilliard is a mom to three amazing kiddos, genealogist and now avid coding student.
 ![Link to Profile](https://github.com/Aliviahhilliard)
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
