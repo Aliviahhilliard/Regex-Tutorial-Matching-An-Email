@@ -4,8 +4,6 @@ Introductory paragraph (replace this with your text)
 
 ## Summary
 
-Certainly, here's a professional breakdown:
-
 The Regular Expression: `/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/` is designed to validate email addresses. The expression consists of three primary segments, which are:
 
 1. Local Part: `([a-z0-9_\.-]+)`
@@ -38,6 +36,15 @@ Would you like further clarification on any of the segments?
 
 ### Anchors
 
+The Anchors are unique in that they match a position within a string, not a character.
+
+Such as using the following symbols: 
+
+^ = beginning
+$ = end
+\b = word boundary
+\B = not word boundary
+
 ### Quantifiers
 
 ### Grouping Constructs
@@ -54,4 +61,5 @@ Would you like further clarification on any of the segments?
 
 ## Author
 
+![Link to Profile](https://github.com/Aliviahhilliard)
 A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
