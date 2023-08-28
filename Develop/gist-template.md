@@ -38,7 +38,7 @@ Would you like further clarification on any of the segments?
 
 The Anchors are unique in that they match a position within a string, not a character.
 
-Such as using the following symbols: 
+Such as using the following symbols:
 
 ^ = beginning
 $ = end
@@ -47,13 +47,31 @@ $ = end
 
 ### Quantifiers
 
+bob|alice match bob or alice
+z? zero or one occurrences
+z* zero or multiple occurrences
+z+ one or multiple occurrences
+z{n} n occurrences
+z{min,max} min/max occurrences
+
 ### Grouping Constructs
 
 ### Bracket Expressions
 
+[xyz] match any x, y, z
+[J-Z] match any capital letters between J & Z.
+[^xyz] NOT x, y, z
+
 ### Character Classes
 
+\w word \d digit \s whitespace (tabs, line breaks)
+\W NOT word \D NOT digit \S NOT whitespace
+\t tabs, \n line breaks
+. any character (except newline)
+
 ### The OR Operator
+
+`|` is the OR Operator, which allows a match to have a match x or y component.
 
 ### Flags
 
