@@ -5,6 +5,7 @@
 This repository hosts a series of tutorials focused on understanding and implementing Regular Expressions (Regex). These tutorials are designed to help both beginners and intermediate users get acquainted with the nuances of regex patterns in text manipulation and validation.
 
 ## Table of Contents
+
 1. [Installation](#installation)
 2. [Usage](#usage)
 3. [Contributing](#contributing)
