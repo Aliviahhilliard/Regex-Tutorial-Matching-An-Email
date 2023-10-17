@@ -27,7 +27,7 @@ Feel free to fork this repository and add your own regex tutorials. Submit a pul
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-## About the Author / Acknowledgments
+## About the Author
 
 For more projects and tutorials, visit my [GitHub Profile](https://github.com/Aliviahhilliard). Thanks to Regexr.com and W3schools.com for valuable information.
 
